@@ -1,0 +1,2 @@
+class BrahbrahbrahController < ApplicationController
+end
